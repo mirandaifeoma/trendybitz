@@ -2083,3 +2083,21 @@
                     max-width: 95%;
                 }
             }
+            
+            @media (min-width:321px) and (max-width:374px) {
+                .black-div {
+                    height: 140rem;
+                }
+            }
+            
+            @media (min-width:376px) and (max-width:424px) {
+                .black-div {
+                    height: 170rem;
+                }
+            }
+            
+            @media (min-width:426px) and (max-width:767px) {
+                .black-div {
+                    height: 150rem;
+                }
+            }
